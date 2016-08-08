@@ -1,0 +1,30 @@
+_repo: The-Lords-of-the-WildA-Story-of-the-Old-New-York-Border_11961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, Joseph Alexander
+    - Altsheler, J. A. (Joseph Alexander)
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: Volume 5 in the French and Indian War series by Altsheler.
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Juvenile
+  fiction'
+- GITenberg
+title: 'The Lords of the Wild: A Story of the Old New York Border'
+url: http://www.gutenberg.org/ebooks/11961
